@@ -1,0 +1,12 @@
+{
+  "name": "@sonpx/tea-xyz-app",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@sonpx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonpx37/tea-xyz-app.git"
+  },
+  "license": "MIT"
+}
