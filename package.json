@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "@sonpx",
   "license": "ISC",
+  "repository": "https://github.com/sonpx37/tea-xyz-app.git",
   "dependencies": {
     "http": "^0.0.1-security",
     "http-server": "^14.1.1",
